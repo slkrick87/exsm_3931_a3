@@ -25,5 +25,35 @@ Open and eat your selection
 
 Feel Good!
 
-
 PSEUDOCODE (Machine Owner)
+
+Time to re-stock my machine!
+
+Insert key into slot and unlock the machine
+
+Open door to expose items and change box
+
+Check the cash box for change
+if money is inside {
+    empty box into your own bin
+}
+
+Check the change slots
+if change is low or empty {
+    re-stock the change slots with proper coinage
+}
+
+Assess item selection
+if slots are empty {
+    re-stock rows with same item or new items
+}
+
+Close machine and lock the door
+
+Test the machine to ensure it works properly
+if machine malfunctions {
+    insert key and unlock the door and toubleshoot
+}
+if machine works {
+    Have a snack and leave with profits
+}
