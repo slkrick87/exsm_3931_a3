@@ -2,12 +2,28 @@ PSEUDOCODE (Hungry Customer)
 
 I am a hungry customer!
 
+Do I have enough money?
+if not {
+    go get some money for the machine.
+}
+Make Choice and find the price
 
+Put money into machine
+while money is less than cost {
+    insert more money
+}
 
+Push buttons for selection
 
+Wait for the machine to dispense item
+if money inserted is more than cost {
+    collect the change from machine
+}
+Retrieve item from machine
 
+Open and eat your selection
 
-
+Feel Good!
 
 
 PSEUDOCODE (Machine Owner)
